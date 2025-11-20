@@ -52,3 +52,7 @@ Para ejecutar la suite de pruebas completa, sigue estos pasos:
     pytest
     ```
     El *exit code 0* indica que todas las pruebas pasaron satisfactoriamente.
+
+## 👤 Autor
+
+* **[Alberto Cortes Chavez]** - Desarrollador de pruebas de automatización.
